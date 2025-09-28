@@ -1,17 +1,10 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+My name is Yu Liang (梁堉 in Chinese). I am currently a fourth-year Ph.D. student at the Technology Center of Software Engineering ([TCSE](http://www.tcse.cn/)), Institute of Software, Chinese Academy of Sciences ([ISCAS](http://www.is.cas.cn/)). I am fortunate to be advised by Prof. [Wensheng Dou](http://www.tcse.cn/~wsdou/) and Prof. [Wei Wang](https://people.ucas.ac.cn/~iscaswangwei).
 
 #### Contact
-
-Email: senli[at]fas.harvard.edu
+Email: liangyu22@otcaix.iscas.ac.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Software Engineering, Sichuan University, 2018—2022.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Software engineering, software reliability testing, particularly in distributed systems.
